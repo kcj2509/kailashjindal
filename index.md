@@ -1,4 +1,9 @@
 ## Kailash Chandra Jindal
+MD-104, HOR-2, Alliance University, Chandapura-Anekal Main Road, Bengaluru, 562106
+<br>+91-9680341351
+<br>https://www.linkedin.com/in/kailash-chandra-jindal/
+<br>ckailashMBA719@bus.alliance.edu.in</br>
+
 
 You can use the [editor on GitHub](https://github.com/kcj2509/kailashjindal/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
