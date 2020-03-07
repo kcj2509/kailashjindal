@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Kailash Chandra Jindal
 
 You can use the [editor on GitHub](https://github.com/kcj2509/kailashjindal/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
