@@ -35,9 +35,9 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Contact Details
 
 MD-104, HOR-2, Alliance University, Chandapura-Anekal Main Road, Bengaluru, 562106
-<br>+91-9680341351
-<br>https://www.linkedin.com/in/kailash-chandra-jindal/
-<br>ckailashMBA719@bus.alliance.edu.in</br>
+<br>Mobile no. : - +91-9680341351
+<br>LinkedIn id: - https://www.linkedin.com/in/kailash-chandra-jindal/
+<br>Mail id    : - ckailashMBA719@bus.alliance.edu.in</br>
 
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
